@@ -64,3 +64,9 @@ Example:
 ```bash
 proggy run official/joke
 ```
+
+## License
+
+Please refer to the [LICENSE.md](https://github.com/proggy-io/cli/blob/main/LICENSE.md) file.
+
+(c) Copyright 2024 Proggy
