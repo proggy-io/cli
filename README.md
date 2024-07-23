@@ -3,11 +3,11 @@
 The Proggy CLI tool is the companion software application to [Proggy](https://proggy.io). With the CLI tool, you can run your Prog commands (built on Proggy).
 
 1. [Installation](#installation)
-  a. [Package Manager](#package-manager-installation)
-  b. [Manual](#manual-installation)
-2. [Authenticating Proggy CLI](#authenticating-the-cli-tool)
-3. [Usage](#usage)
-4. [License](#license)
+    * [Package Manager](#package-manager-installation)
+    * [Manual](#manual-installation)
+3. [Authenticating Proggy CLI](#authenticating-the-cli-tool)
+4. [Usage](#usage)
+5. [License](#license)
 
 ## Installation
 
