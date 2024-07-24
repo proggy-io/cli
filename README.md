@@ -40,6 +40,7 @@ choco install proggy
 
 ### Manual Installation
 
+You can download the compiled binaries in the release section of this repository, unarchive the file, and run it locally.
 
 ## Authenticating the CLI tool
 
